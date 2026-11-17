@@ -8,20 +8,8 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:spiel-hsv-hajduk-split-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
-DTSTART:20261115T140000Z
-DTEND:20261115T160000Z
-SUMMARY:⚽ HSV – Hajduk Split
-DESCRIPTION:Ticketinfos: https://www.hsv.de/tickets/ticketinfos-heimspiele/
- ticketinfos-hajduk-split
-URL:https://www.hsv.de/tickets/ticketinfos-heimspiele/ticketinfos-hajduk-sp
- lit
-LOCATION:Volksparkstadion\, Hamburg
-END:VEVENT
-BEGIN:VEVENT
 UID:spiel-sv-werder-bremen-hsv-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20261122T163000Z
 DTEND:20261122T183000Z
 SUMMARY:⚽ SV Werder Bremen – HSV
@@ -33,7 +21,7 @@ LOCATION:Auswärts bei SV Werder Bremen
 END:VEVENT
 BEGIN:VEVENT
 UID:spiel-hsv-fc-bayern-m-nchen-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20261128T143000Z
 DTEND:20261128T163000Z
 SUMMARY:⚽ HSV – FC Bayern München
@@ -46,7 +34,7 @@ LOCATION:Volksparkstadion\, Hamburg
 END:VEVENT
 BEGIN:VEVENT
 UID:spiel-1-fc-union-berlin-hsv-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20261205T143000Z
 DTEND:20261205T163000Z
 SUMMARY:⚽ 1. FC Union Berlin – HSV
@@ -58,7 +46,7 @@ LOCATION:Auswärts bei 1. FC Union Berlin
 END:VEVENT
 BEGIN:VEVENT
 UID:spiel-hsv-fc-schalke-04-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20261211T193000Z
 DTEND:20261211T213000Z
 SUMMARY:⚽ HSV – FC Schalke 04
@@ -71,7 +59,7 @@ LOCATION:Volksparkstadion\, Hamburg
 END:VEVENT
 BEGIN:VEVENT
 UID:spiel-sv-elversberg-hsv-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20261219T143000Z
 DTEND:20261219T163000Z
 SUMMARY:⚽ SV Elversberg – HSV
@@ -84,7 +72,7 @@ LOCATION:Auswärts bei SV Elversberg
 END:VEVENT
 BEGIN:VEVENT
 UID:vvk-mitglieder-sv-elversberg-hsv-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20261119T090000Z
 DTEND:20261119T093000Z
 SUMMARY:🎟️ Mitglieder-VVK: SV Elversberg – HSV
@@ -102,26 +90,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spiel-hsv-bayer-04-leverkusen-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20270110T163000Z
 DTEND:20270110T183000Z
 SUMMARY:⚽ HSV – Bayer 04 Leverkusen
 DESCRIPTION:Wettbewerb: Bundesliga\nMitglieder-VVK: 24.11. ab 10 Uhr\nFreie
  r VVK: 10.12. ab 10 Uhr\nTicketinfos: https://www.hsv.de/tickets/ticketinf
- os
-URL:https://www.hsv.de/tickets/ticketinfos
+ os-heimspiele/15-ticketinfos-bayer-04-leverkusen
+URL:https://www.hsv.de/tickets/ticketinfos-heimspiele/15-ticketinfos-bayer-
+ 04-leverkusen
 LOCATION:Volksparkstadion\, Hamburg
 END:VEVENT
 BEGIN:VEVENT
 UID:vvk-mitglieder-hsv-bayer-04-leverkusen-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20261124T090000Z
 DTEND:20261124T093000Z
 SUMMARY:🎟️ Mitglieder-VVK: HSV – Bayer 04 Leverkusen
 DESCRIPTION:Mitglieder-Vorverkauf startet um 10:00 Uhr.\n30 Minuten vorher 
  öffnet der Pre-Warteraum im Ticketshop.\nSpiel: HSV – Bayer 04 Leverkus
- en\nTicketinfos: https://www.hsv.de/tickets/ticketinfos
-URL:https://www.hsv.de/tickets/ticketinfos
+ en\nTicketinfos: https://www.hsv.de/tickets/ticketinfos-heimspiele/15-tick
+ etinfos-bayer-04-leverkusen
+URL:https://www.hsv.de/tickets/ticketinfos-heimspiele/15-ticketinfos-bayer-
+ 04-leverkusen
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🎟️ Mitglieder-VVK: HSV – Bayer 04 Leverkusen
@@ -130,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spiel-sc-freiburg-hsv-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20270113T193000Z
 DTEND:20270113T213000Z
 SUMMARY:⚽ SC Freiburg – HSV
@@ -141,26 +132,29 @@ LOCATION:Auswärts bei SC Freiburg
 END:VEVENT
 BEGIN:VEVENT
 UID:spiel-hsv-fc-augsburg-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20270116T143000Z
 DTEND:20270116T163000Z
 SUMMARY:⚽ HSV – FC Augsburg
 DESCRIPTION:Wettbewerb: Bundesliga\nMitglieder-VVK: 01.12. ab 10 Uhr\nFreie
  r VVK: 17.12. ab 10 Uhr\nTicketinfos: https://www.hsv.de/tickets/ticketinf
- os
-URL:https://www.hsv.de/tickets/ticketinfos
+ os-heimspiele/17-ticketinfos-fc-augsburg
+URL:https://www.hsv.de/tickets/ticketinfos-heimspiele/17-ticketinfos-fc-aug
+ sburg
 LOCATION:Volksparkstadion\, Hamburg
 END:VEVENT
 BEGIN:VEVENT
 UID:vvk-mitglieder-hsv-fc-augsburg-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20261201T090000Z
 DTEND:20261201T093000Z
 SUMMARY:🎟️ Mitglieder-VVK: HSV – FC Augsburg
 DESCRIPTION:Mitglieder-Vorverkauf startet um 10:00 Uhr.\n30 Minuten vorher 
  öffnet der Pre-Warteraum im Ticketshop.\nSpiel: HSV – FC Augsburg\nTick
- etinfos: https://www.hsv.de/tickets/ticketinfos
-URL:https://www.hsv.de/tickets/ticketinfos
+ etinfos: https://www.hsv.de/tickets/ticketinfos-heimspiele/17-ticketinfos-
+ fc-augsburg
+URL:https://www.hsv.de/tickets/ticketinfos-heimspiele/17-ticketinfos-fc-aug
+ sburg
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🎟️ Mitglieder-VVK: HSV – FC Augsburg
@@ -169,18 +163,38 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spiel-hsv-bvb-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART:20270123T173000Z
 DTEND:20270123T193000Z
 SUMMARY:⚽ HSV – BVB
-DESCRIPTION:Wettbewerb: bundesliga_Logo_\nInfos folgen\nTicketinfos: https:
- //www.hsv.de/tickets/ticketinfos
-URL:https://www.hsv.de/tickets/ticketinfos
+DESCRIPTION:Wettbewerb: bundesliga_Logo_\nMitglieder-VVK: 08.12. ab 10 Uhr\
+ nTicketinfos: https://a.storyblok.com/f/291215624286909/x/b018593bd0/preis
+ liste-einzelkarten-26-27-1.pdf
+URL:https://a.storyblok.com/f/291215624286909/x/b018593bd0/preisliste-einze
+ lkarten-26-27-1.pdf
 LOCATION:Volksparkstadion\, Hamburg
 END:VEVENT
 BEGIN:VEVENT
+UID:vvk-mitglieder-hsv-bvb-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART:20261208T090000Z
+DTEND:20261208T093000Z
+SUMMARY:🎟️ Mitglieder-VVK: HSV – BVB
+DESCRIPTION:Mitglieder-Vorverkauf startet um 10:00 Uhr.\n30 Minuten vorher 
+ öffnet der Pre-Warteraum im Ticketshop.\nSpiel: HSV – BVB\nTicketinfos:
+  https://a.storyblok.com/f/291215624286909/x/b018593bd0/preisliste-einzelk
+ arten-26-27-1.pdf
+URL:https://a.storyblok.com/f/291215624286909/x/b018593bd0/preisliste-einze
+ lkarten-26-27-1.pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎟️ Mitglieder-VVK: HSV – BVB
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:spiel-1-fsv-mainz-05-hsv-20262027@hsv-vvk-kalender
-DTSTAMP:20261112T195843Z
+DTSTAMP:20261117T205906Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270201
 TRANSP:TRANSPARENT
@@ -189,5 +203,125 @@ DESCRIPTION:Wettbewerb: bundesliga_Logo_\nInfos folgen\nTicketinfos: https:
  //www.hsv.de/tickets/ticketinfos
 URL:https://www.hsv.de/tickets/ticketinfos
 LOCATION:Auswärts bei 1. FSV Mainz 05
+END:VEVENT
+BEGIN:VEVENT
+UID:spiel-hsv-rb-leipzig-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270208
+TRANSP:TRANSPARENT
+SUMMARY:⚽ HSV – RB Leipzig (Termin offen)
+DESCRIPTION:Wettbewerb: bundesliga_Logo_\nMitglieder-VVK: 05.01. ab 10 Uhr\
+ nTicketinfos: https://www.hsv.de/tickets/ticketinfos
+URL:https://www.hsv.de/tickets/ticketinfos
+LOCATION:Volksparkstadion\, Hamburg
+END:VEVENT
+BEGIN:VEVENT
+UID:vvk-mitglieder-hsv-rb-leipzig-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART:20270105T090000Z
+DTEND:20270105T093000Z
+SUMMARY:🎟️ Mitglieder-VVK: HSV – RB Leipzig
+DESCRIPTION:Mitglieder-Vorverkauf startet um 10:00 Uhr.\n30 Minuten vorher 
+ öffnet der Pre-Warteraum im Ticketshop.\nSpiel: HSV – RB Leipzig\nTicke
+ tinfos: https://www.hsv.de/tickets/ticketinfos
+URL:https://www.hsv.de/tickets/ticketinfos
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎟️ Mitglieder-VVK: HSV – RB Leipzig
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spiel-1-fc-k-ln-hsv-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270215
+TRANSP:TRANSPARENT
+SUMMARY:⚽ 1. FC Köln – HSV (Termin offen)
+DESCRIPTION:Wettbewerb: bundesliga_Logo_\nInfos folgen\nTicketinfos: https:
+ //www.hsv.de/tickets/ticketinfos
+URL:https://www.hsv.de/tickets/ticketinfos
+LOCATION:Auswärts bei 1. FC Köln
+END:VEVENT
+BEGIN:VEVENT
+UID:spiel-hsv-tsg-hoffenheim-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270222
+TRANSP:TRANSPARENT
+SUMMARY:⚽ HSV – TSG Hoffenheim (Termin offen)
+DESCRIPTION:Wettbewerb: bundesliga_Logo_\nMitglieder-VVK: 12.01. ab 10 Uhr\
+ nTicketinfos: https://www.hsv.de/tickets/ticketinfos
+URL:https://www.hsv.de/tickets/ticketinfos
+LOCATION:Volksparkstadion\, Hamburg
+END:VEVENT
+BEGIN:VEVENT
+UID:vvk-mitglieder-hsv-tsg-hoffenheim-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART:20270112T090000Z
+DTEND:20270112T093000Z
+SUMMARY:🎟️ Mitglieder-VVK: HSV – TSG Hoffenheim
+DESCRIPTION:Mitglieder-Vorverkauf startet um 10:00 Uhr.\n30 Minuten vorher 
+ öffnet der Pre-Warteraum im Ticketshop.\nSpiel: HSV – TSG Hoffenheim\nT
+ icketinfos: https://www.hsv.de/tickets/ticketinfos
+URL:https://www.hsv.de/tickets/ticketinfos
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎟️ Mitglieder-VVK: HSV – TSG Hoffenheim
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spiel-vfb-stuttgart-hsv-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+SUMMARY:⚽ VfB Stuttgart – HSV (Termin offen)
+DESCRIPTION:Wettbewerb: bundesliga_Logo_\nInfos folgen\nTicketinfos: https:
+ //www.hsv.de/tickets/ticketinfos
+URL:https://www.hsv.de/tickets/ticketinfos
+LOCATION:Auswärts bei VfB Stuttgart
+END:VEVENT
+BEGIN:VEVENT
+UID:spiel-m-gladbach-hsv-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270315
+TRANSP:TRANSPARENT
+SUMMARY:⚽ M‘gladbach – HSV (Termin offen)
+DESCRIPTION:Wettbewerb: bundesliga_Logo_\nInfos folgen\nTicketinfos: https:
+ //www.hsv.de/tickets/ticketinfos
+URL:https://www.hsv.de/tickets/ticketinfos
+LOCATION:Auswärts bei M‘gladbach
+END:VEVENT
+BEGIN:VEVENT
+UID:spiel-hsv-sv-werder-bremen-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:⚽ HSV – SV Werder Bremen (Termin offen)
+DESCRIPTION:Wettbewerb: bundesliga_Logo_\nMitglieder-VVK: 09.02. ab 10 Uhr\
+ nTicketinfos: https://www.hsv.de/tickets/ticketinfos
+URL:https://www.hsv.de/tickets/ticketinfos
+LOCATION:Volksparkstadion\, Hamburg
+END:VEVENT
+BEGIN:VEVENT
+UID:vvk-mitglieder-hsv-sv-werder-bremen-20262027@hsv-vvk-kalender
+DTSTAMP:20261117T205906Z
+DTSTART:20270209T090000Z
+DTEND:20270209T093000Z
+SUMMARY:🎟️ Mitglieder-VVK: HSV – SV Werder Bremen
+DESCRIPTION:Mitglieder-Vorverkauf startet um 10:00 Uhr.\n30 Minuten vorher 
+ öffnet der Pre-Warteraum im Ticketshop.\nSpiel: HSV – SV Werder Bremen\
+ nTicketinfos: https://www.hsv.de/tickets/ticketinfos
+URL:https://www.hsv.de/tickets/ticketinfos
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎟️ Mitglieder-VVK: HSV – SV Werder Bremen
+TRIGGER:-PT30M
+END:VALARM
 END:VEVENT
 END:VCALENDAR
