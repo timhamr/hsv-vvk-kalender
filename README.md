@@ -8,7 +8,9 @@ und veröffentlicht sie als abonnierbaren Kalender:
 - ⚽ alle Heim- und Auswärtsspiele (noch nicht terminierte Spieltage als ganztägiger Zeitraum)
 - 🎟️ jeder angekündigte Mitglieder-Vorverkauf, mit Erinnerung 30 Minuten vorher (Pre-Warteraum)
 
-In Proton Calendar: **+** neben „Meine Kalender“ → „Kalender über URL hinzufügen“ → Link einfügen.
+Im Kalender: **+** neben „Meine Kalender“ → „Kalender über URL hinzufügen“ → Link einfügen.
 
 `python3 build.py` erzeugt `docs/hsv.ics` lokal; `python3 build.py seite.html` liest eine gespeicherte Seite.
 Inoffiziell, kein Angebot des Hamburger SV.
+
+Nur der HSV.
